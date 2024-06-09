@@ -7,7 +7,7 @@ using System.Windows.Forms;
 using DistantWorlds.Types;
 using Ionic.Zip;
 using Microsoft.Xna.Framework.Audio;
-using SharpDX.Multimedia;
+//using SharpDX.Multimedia;
 //using Microsoft.DirectX.DirectSound;
 
 namespace DistantWorlds
