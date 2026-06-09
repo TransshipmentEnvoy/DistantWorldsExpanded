@@ -1567,6 +1567,7 @@ namespace DistantWorlds
                 }
                 fastBitmap.Release();
                 bitmap_191.RotateFlip(RotateFlipType.Rotate270FlipNone);
+                bitmap_191.SetResolution(72f, 72f);
             }));
 
 
